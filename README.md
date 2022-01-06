@@ -7,5 +7,5 @@
 <p> Adotamos estratégias de impulsionamento digital e integração de plataformas inteligentes visando o crescimento e desenvolvimento do seu negócio.</p>
 </div>
 
-Email para contato: <b>comercial@agenciatrelo.com.br</b>
-Site da agência: <a href="https://agenciatrelo.com.br/">agenciatrelo.com.br</a>
+Email para contato: <b>comercial@agenciatrelo.com.br</b><br>
+Site da agência: <a href="https://agenciatrelo.com.br/"><b>agenciatrelo.com.br</b></a>
